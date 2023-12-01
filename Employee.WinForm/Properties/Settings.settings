@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Employee.WinForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoRestApiEndPoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://gorest.co.in/public/v2/</Value>
+    </Setting>
+    <Setting Name="GoRestApiToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0bf7fb56e6a27cbcadc402fc2fce8e3aa9ac2b40d4190698eb4e8df9284e2023</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
